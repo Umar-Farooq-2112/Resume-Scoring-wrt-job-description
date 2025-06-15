@@ -1,0 +1,6 @@
+langchain
+langgraph
+streamlit
+python-dotenv
+PyMuPDF
+langchain_google_genai
